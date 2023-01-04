@@ -17,9 +17,8 @@
 
 ***<h3> :pencil: Objetivo do projeto. </h3>***
 --------------------------------------------
-Revisão dos conceitos apresentados para testes manuais no mundo ágil, bem como compreender<br/>
-e praticar atividades relacionadas com o dia a dia do profissional de QA, tendo como foco<br/>
-testes manuais funcionais. :blue_heart: 👩‍💻 :blue_heart:
+Revisão dos conceitos apresentados para testes manuais no mundo ágil, bem como compreender e praticar atividades relacionadas<br/> 
+com o dia a dia do profissional de QA, tendo como foco testes manuais funcionais. :blue_heart: 👩‍💻 :blue_heart:
 
 
 
@@ -36,7 +35,7 @@ testes manuais funcionais. :blue_heart: 👩‍💻 :blue_heart:
 --------------------------------------------
 :pencil2: Um plano de fluxo de trabalho de desenvolvido e do ciclo de vida do bug conforme explicado.<br/>
 :pencil2: Um documento contendo no mínimo 2 User Stories pensadas e criadas por você em formato PDF.<br/>
-:pencil2: Documentos de teste gerados no seu processo de estudo:<br/>
+:blue_book: Documentos de teste gerados no seu processo de estudo:<br/>
 :pencil2: Mind map de pelo menos 1 User Story.<br/>
 :pencil2: 2 casos de teste utilizando técnica step by step (no mínimo) com a configuração que preferir.<br/>
 :pencil2: 2 casos de teste utilizando BDD (no mínimo).<br/>
