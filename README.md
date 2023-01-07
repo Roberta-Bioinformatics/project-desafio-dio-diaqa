@@ -35,12 +35,28 @@ com o dia a dia do profissional de QA, tendo como foco testes manuais funcionais
 :pencil2: 2 casos de teste utilizando BDD (no mínimo).<br/>
 
 
+<br/>***<h2> :pencil: Os seguintes items foram adicionalmente anexados:</h2>***
+:pencil2: Descrição dos casos de testes solicitados.<br/>
+:pencil2: Ciclo de vida com caso de teste 1 - BDD - parte I.<br/>
+:pencil2: Ciclo de vida com caso de teste 1 - BDD - parte II.<br/>
+:pencil2: Ciclo de vida com caso de teste 2 - BDD - parte I.<br/>
+:pencil2: Ciclo de vida com caso de teste 2 - BDD - parte II.<br/>
+:pencil2: Ciclo de vida com caso de teste 1 - Step by step - parte I.<br/>
+:pencil2: Ciclo de vida com caso de teste 1 - Step by step - parte II.<br/>
+:pencil2: Ciclo de vida com caso de teste 2 - Step by step - parte I.<br/>
+:pencil2: Ciclo de vida com caso de teste 2 - Step by step - parte II.<br/>
+:pencil2: Relatorio de teste - listagem - Zephyr Scale - Jira.<br/>
+:pencil2: Relatorio de teste - visão geral - Zephyr Scale - Jira.<br/>
+:pencil2: Relatorio por ciclo de teste - Zephyr Scale - Jira.<br/>
+:pencil2: Tipos de relatorio selecionados - Zephyr Scale - Jira.<br/>
+:pencil2: Relatorio de execução de teste - visão geral - Zephyr Scale - Jira.<br/>
+
 
 <br/>***<h2> 🖌️  Observação: </h2>*** 
 Os desenvolvimentos das etapas e dos documentos propostos foram realizados 
 com o acompanhamento 💗<br/>das instruções do projeto e revisão das aulas. 💛 👩‍💻 🧡
   
-{✿◠‿◠} Muita gratidão! ✨🤗✨  
+{✿◠‿◠} Muita gratidão! ✨🤗✨<br/>  
 
  ![](https://wac-cdn.atlassian.com/dam/jcr:48f73fa9-325e-4663-a743-daba2a0f1397/jira-social%20@2x.png)
 ___
