@@ -35,7 +35,7 @@ com o dia a dia do profissional de QA, tendo como foco testes manuais funcionais
 :pencil2: 2 casos de teste utilizando BDD (no mínimo).<br/>
 
 
-<br/>***<h2> :pencil: Os seguintes items foram adicionalmente anexados:</h2>***
+<br/>***<h2> :pencil: Os seguintes itens foram adicionalmente anexados:</h2>***
 :pencil2: Descrição dos casos de testes solicitados.<br/>
 :pencil2: Ciclo de vida com caso de teste 1 - BDD - parte I.<br/>
 :pencil2: Ciclo de vida com caso de teste 1 - BDD - parte II.<br/>
