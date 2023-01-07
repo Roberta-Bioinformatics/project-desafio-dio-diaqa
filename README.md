@@ -25,7 +25,7 @@ com o dia a dia do profissional de QA, tendo como foco testes manuais funcionais
 :heavy_check_mark: Colaboração/Documentação: Confluence.<br/>
 
 
-<br/>***<h2> :pencil: A seguinte documentação deverá ser anexada em PDF:</h2>***
+<br/>***<h2> :pencil: A seguinte documentação foi anexada, conforme solicitado:</h2>***
 :pencil2: Um plano de fluxo de trabalho de desenvolvido.<br/>
 :pencil2: Ciclo de vida do bug conforme explicado.<br/>
 :pencil2: Um documento contendo no mínimo 2 User Stories pensadas e criadas por você em formato PDF.<br/>
