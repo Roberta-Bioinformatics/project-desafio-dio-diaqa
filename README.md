@@ -46,6 +46,8 @@ com o dia a dia do profissional de QA, tendo como foco testes manuais funcionais
 :pencil2: Ciclo de vida com caso de teste 2 - Step by step - parte II.<br/>
 :pencil2: Ciclo de testes 2 BDD e 2 step by step.<br/>
 :pencil2: Descrição dos casos de testes solicitados.<br/>
+:pencil2: Plano de teste - US-1.<br/>
+:pencil2: Plano de teste descricoes - US-1.<br/>
 :pencil2: Relatório de teste - listagem - Zephyr Scale - Jira.<br/>
 :pencil2: Relatório de teste - visão geral - Zephyr Scale - Jira.<br/>
 :pencil2: Relatório de teste - resumo - Zephyr Scale - Jira.<br/>
