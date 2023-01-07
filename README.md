@@ -31,17 +31,18 @@ com o dia a dia do profissional de QA, tendo como foco testes manuais funcionais
 :pencil2: Um documento contendo no mínimo 2 User Stories pensadas e criadas por você em formato PDF.<br/>
 :bookmark_tabs: Documentos de teste gerados no seu processo de estudo:<br/>
 :pencil2: Mind map de pelo menos 1 User Story.<br/>
+:pencil2: Ciclo de testes 2 BDD e 2 step by step.<br/>
 :blue_book: 2 casos de teste utilizando técnica step by step (no mínimo) com a configuração que preferir.<br/>
 :pencil2: Ciclo de vida com caso de teste 1 - Step by step - parte I.<br/>
 :pencil2: Ciclo de vida com caso de teste 1 - Step by step - parte II.<br/>
 :pencil2: Ciclo de vida com caso de teste 2 - Step by step - parte I.<br/>
 :pencil2: Ciclo de vida com caso de teste 2 - Step by step - parte II.<br/>
-:pencil2: Ciclo de testes 2 BDD e 2 step by step.<br/>
 :blue_book: 2 casos de teste utilizando BDD (no mínimo).<br/>
 :pencil2: Ciclo de vida com caso de teste 1 - BDD - parte I.<br/>
 :pencil2: Ciclo de vida com caso de teste 1 - BDD - parte II.<br/>
 :pencil2: Ciclo de vida com caso de teste 2 - BDD - parte I.<br/>
 :pencil2: Ciclo de vida com caso de teste 2 - BDD - parte II.<br/>
+
 
 <br/>***<h2> :pencil: Os seguintes itens foram adicionalmente anexados:</h2>***
 :pencil2: Descrição dos casos de testes solicitados.<br/>
@@ -63,4 +64,3 @@ com o acompanhamento 💗<br/>das instruções do projeto e revisão das aulas. 
 {✿◠‿◠} Muita gratidão! ✨🤗✨<br/>  
 
  ![](https://wac-cdn.atlassian.com/dam/jcr:48f73fa9-325e-4663-a743-daba2a0f1397/jira-social%20@2x.png)
-___
