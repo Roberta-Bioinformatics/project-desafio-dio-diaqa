@@ -45,11 +45,11 @@ com o dia a dia do profissional de QA, tendo como foco testes manuais funcionais
 :pencil2: Ciclo de vida com caso de teste 1 - Step by step - parte II.<br/>
 :pencil2: Ciclo de vida com caso de teste 2 - Step by step - parte I.<br/>
 :pencil2: Ciclo de vida com caso de teste 2 - Step by step - parte II.<br/>
-:pencil2: Relatorio de teste - listagem - Zephyr Scale - Jira.<br/>
-:pencil2: Relatorio de teste - visão geral - Zephyr Scale - Jira.<br/>
-:pencil2: Relatorio por ciclo de teste - Zephyr Scale - Jira.<br/>
-:pencil2: Tipos de relatorio selecionados - Zephyr Scale - Jira.<br/>
-:pencil2: Relatorio de execução de teste - visão geral - Zephyr Scale - Jira.<br/>
+:pencil2: Relatório de teste - listagem - Zephyr Scale - Jira.<br/>
+:pencil2: Relatório de teste - visão geral - Zephyr Scale - Jira.<br/>
+:pencil2: Relatório de teste - resumo - Zephyr Scale - Jira.<br/>
+:pencil2: Relatório por ciclo de teste - Zephyr Scale - Jira.<br/>
+:pencil2: Tipos de relatório selecionados - Zephyr Scale - Jira.<br/>
 
 
 <br/>***<h2> 🖌️  Observação: </h2>*** 
