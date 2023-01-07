@@ -29,7 +29,7 @@ com o dia a dia do profissional de QA, tendo como foco testes manuais funcionais
 :pencil2: Um plano de fluxo de trabalho de desenvolvido.<br/>
 :pencil2: Ciclo de vida do bug conforme explicado.<br/>
 :pencil2: Um documento contendo no mínimo 2 User Stories pensadas e criadas por você em formato PDF.<br/>
-:blue_book: Documentos de teste gerados no seu processo de estudo:<br/>
+:bookmark_tabs: Documentos de teste gerados no seu processo de estudo:<br/>
 :pencil2: Mind map de pelo menos 1 User Story.<br/>
 :blue_book: 2 casos de teste utilizando técnica step by step (no mínimo) com a configuração que preferir.<br/>
 :pencil2: Ciclo de vida com caso de teste 1 - Step by step - parte I.<br/>
