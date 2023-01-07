@@ -4,7 +4,7 @@ Feature: Cliente deseja redefinir a sua senha.
         
         Given que o cliente esteja na tela de login
         
-        And a semnha não ser igual
+        And a senha não ser igual
         
         When digitar a nova senha
         
