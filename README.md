@@ -1,4 +1,4 @@
-<h1 align="center"> Repositório referente ao Projeto da DIO: O dia a dia de um QA. </h1>
+<h1 align="center"> :blue_heart: Repositório referente ao Projeto da DIO: O dia a dia de um QA. :blue_heart: </h1>
 
 <h3 align="center"> 💛 👩‍💻 🧡 A prática de testes manuais funcionais. 💛 👩‍💻 🧡 </h3>
 
